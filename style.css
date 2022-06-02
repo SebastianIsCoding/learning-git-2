@@ -6,4 +6,5 @@ body {
 h1 {
     font-weight: bold;
     color: red;
+    font-style: italic;
 }
